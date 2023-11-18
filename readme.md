@@ -1,6 +1,8 @@
 :wave:
 
-I do web development, Discord bots and other stuff.
+I make games, web apps, Discord bots and other stuff.
+
+🎮 My game studio: [Flaming Rat](https://github.com/flamingrat)
 
 🌐 [lins.dev](https://lins.dev)
 
