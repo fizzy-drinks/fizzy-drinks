@@ -4,7 +4,7 @@ I make games, web apps, Discord bots and other stuff.
 
 🎮 My game studio: [Flaming Rat](https://github.com/flamingrat)
 
-🌐 [lins.dev](https://lins.dev)
+🌐 [chikorito.land](https://chikorito.land)
 
 📧 g@lins.dev
 
