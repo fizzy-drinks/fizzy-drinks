@@ -6,6 +6,6 @@ I make games, web apps, Discord bots and other stuff.
 
 🌐 [chikorito.land](https://chikorito.land)
 
-📧 g@lins.dev
+📧 me@chikorito.land
 
 📄 [Resume](https://rxresu.me/fizzydrinks/full-stack-web)
