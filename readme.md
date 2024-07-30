@@ -8,4 +8,4 @@ I make games, web apps, Discord bots and other stuff.
 
 📧 me@chikorito.land
 
-📄 [Resume](https://rxresu.me/fizzydrinks/full-stack-web)
+📄 [Resume](https://fizzy-drinks.github.io/cv/)
