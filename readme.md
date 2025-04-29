@@ -4,8 +4,6 @@ I make games, web apps, Discord bots and other stuff.
 
 🎮 My game studio: [Flaming Rat](https://github.com/flamingrat)
 
-🌐 [chikorito.land](https://chikorito.land)
-
-📧 me@chikorito.land
+📧 gabriel.chiconi@gmail.com
 
 📄 [Resume](https://fizzy-drinks.github.io/cv/)
